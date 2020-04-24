@@ -1,0 +1,10 @@
+footer{
+    background-color: orangered;
+    color: white;
+    border: gray solid 2px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-family: Arial;
+    font-size: small;
+    padding: 10px;
+}
